@@ -1,0 +1,37 @@
+[
+    {
+        "nama": "Andi",
+        "usia": 19,
+        "kota": "Jakarta"
+    },
+    {
+        "nama": "Boyo",
+        "usia": 25,
+        "kota": "Cimahi"
+    },
+    {
+        "nama": "Kampuang",
+        "usia": 39,
+        "kota": "Sibolga"
+    },
+    {
+        "nama": "Keke",
+        "usia": 29,
+        "kota": "Mama"
+    },
+    {
+        "nama": "Sulaiman",
+        "usia": 99,
+        "kota": "Nicaragua"
+    },
+    {
+        "nama": "Kimpoi",
+        "usia": 69,
+        "kota": "Hotel"
+    },
+    {
+        "nama": "Lana Rhoades",
+        "usia": 26,
+        "kota": "Missisipi"
+    }
+]

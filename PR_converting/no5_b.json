@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "5d596d09daf8941fbd290b49",
+        "nama": "Andi",
+        "usia": 19,
+        "kota": "Jakarta"
+    },
+    {
+        "_id": "5d596d09daf8941fbd290b4a",
+        "nama": "Boyo",
+        "usia": 25,
+        "kota": "Cimahi"
+    },
+    {
+        "_id": "5d596d09daf8941fbd290b4b",
+        "nama": "Kampuang",
+        "usia": 39,
+        "kota": "Sibolga"
+    },
+    {
+        "_id": "5d596d09daf8941fbd290b4c",
+        "nama": "Keke",
+        "usia": 29,
+        "kota": "Mama"
+    },
+    {
+        "_id": "5d596d09daf8941fbd290b4d",
+        "nama": "Sulaiman",
+        "usia": 99,
+        "kota": "Nicaragua"
+    },
+    {
+        "_id": "5d596d09daf8941fbd290b4e",
+        "nama": "Kimpoi",
+        "usia": 69,
+        "kota": "Hotel"
+    },
+    {
+        "_id": "5d596d09daf8941fbd290b4f",
+        "nama": "Lana Rhoades",
+        "usia": 26,
+        "kota": "Missisipi"
+    }
+]
